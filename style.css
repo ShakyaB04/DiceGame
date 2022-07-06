@@ -1,0 +1,74 @@
+body{
+    background: url("https://img.wallpapic.com/i3792-323-47/medium/dice-game-games-casino-board-wallpaper.jpg");
+    background-repeat: no-repeat;
+    background-size: 1539px 725px;
+}
+
+.container{
+    background:rgba(1, 2, 3, .6);
+    color: azure;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.score{
+    width : 40px;
+    height: 40px;
+}
+
+span{
+    font-size: 25px;
+}
+
+h1{
+    font-size: 50px;
+    font-family: fantasy;
+    color: yellow;
+}
+
+#ha{
+    font-size: 50px;
+    font-family: fantasy;
+    color: green;
+}
+
+.btn{
+    font-size: 30px;
+    font-family: fantasy;
+    color: yellowgreen;
+    background-color: tomato;
+    border: 2px solid yellowgreen;
+}
+
+.btn:hover,.bnt:hover{
+    opacity: 0.6;
+    border: 2px solid black;
+}
+
+#out{
+    font-size: 40px;
+    color: goldenrod;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2{
+    color: rgb(170, 168, 168);
+}
+
+#one{
+    color: rgb(255, 66, 195);
+    font-weight: 800;
+}
+
+#two{
+    color: rgb(84, 216, 252);
+    font-weight: 800;
+}
+
+.bnt{
+    font-size: 30px;
+    font-family: fantasy;
+    color: tomato;
+    background-color: yellowgreen;
+    border: 2px solid tomato;
+}
